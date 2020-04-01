@@ -19,11 +19,6 @@ app.use(express.static('public'));
 require("./routes/apiRoutes")(app);
 require("./routes/htmlRoutes")(app);
 
-// const OUTPUT_DIR = path.resolve(__dirname, "/public")
-// const outputPath = path.join(OUTPUT_DIR, "index.html");
-
-// const OUTPUT_DIR_CSS = path.resolve(__dirname, "/public/assets/css")
-// const outputPathCSS = path.join(OUTPUT_DIR_CSS, "style.css");
 
 
 app.listen(PORT, function () {

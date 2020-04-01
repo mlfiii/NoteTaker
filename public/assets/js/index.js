@@ -1,5 +1,5 @@
 // console.log(uuidv4())
-// common Js -> const uuidv4 = require('uuid');
+
 
 var $noteTitle = $(".note-title");
 var $noteText = $(".note-textarea");

@@ -10,7 +10,7 @@ var tableData = require("../db/tableData");
 // ROUTING
 // ===============================================================================
 
-console.log("tabledata:", tableData);
+// console.log("tabledata:", tableData);
 
 module.exports = function (app) {
   // HTML GET Requests
