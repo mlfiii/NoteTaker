@@ -1,0 +1,28 @@
+{
+  "name": "note-taker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "jest": "^25.1.0",
+    "jquery": "^3.4.1",
+    "jsdom": "^16.2.1",
+    "mysql": "^2.16.0",
+    "uuid": "^7.0.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mlfiii/NoteTaker.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/mlfiii/NoteTaker/issues"
+  },
+  "homepage": "https://github.com/mlfiii/NoteTaker#readme"
+}
